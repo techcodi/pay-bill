@@ -8,6 +8,7 @@ import Testimonials from "./components/Testimonials";
 import Faq from "./components/Faq";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
+
 import "./App.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
